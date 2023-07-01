@@ -1,0 +1,34 @@
+#box{
+	border:solid 1px black;
+	background:gray;
+	width:250px;
+	height:250px;
+	margin:auto;
+
+}
+
+#red{
+	margin-top:15px;
+	text-align:center;
+
+}
+#blue{
+	margin-top:15px;
+	text-align:center;
+	
+
+}
+#green{
+	margin-top:15px;
+	
+	text-align:center;
+
+}
+#yellow{
+	margin-top:15px;
+	text-align:center;
+
+}
+
+#div1{
+	margin:top;
